@@ -10,16 +10,14 @@ Going back to the fundamentals. Properly this time.
 
 | Day | Topic | Code | Status |
 |-----|-------|------|--------|
-| Day 2 | Promises & Async/Await | [View Code](./Day%202) | ✅ Done |
-| Day 3 | Event Loop & Call Stack | [View Code](./Day%203) | ✅ Done |
-| Day 4 | Prototype Chain & Inheritance | [View Code](./Day%204) | ✅ Done 
-| Day 5 | Currying & Higher Order Functions | Coming soon | ⏳ |
-| Day 6 | ES6+ Deep Dive | Coming soon | ⏳ |
-| Day 7 | Closures | Coming soon | ⏳ |
-
----
-
-
+| Day 1 | Promises & Async/Await | [View Code](./Day%201) | ✅ Done |
+| Day 2 | Event Loop & Call Stack | [View Code](./Day%202) | ✅ Done |
+| Day 3 | Prototype Chain & Inheritance | [View Code](./Day%203) | ✅ Done |
+| Day 4 | Currying & Partial Application | [View Code](./Day%204) | ✅ Done |
+| Day 5 | Higher Order Functions (map, filter, reduce) | [View Code](./Day%205) | ✅ Done |
+| Day 6 | Closures & Lexical Scope | Coming soon | ⏳ |
+| Day 7 | Debouncing & Throttling | Coming soon | ⏳ |
+| Day 8 | ES6+ Deep Dive | Coming soon | ⏳ |
 
 ---
 
@@ -32,3 +30,7 @@ This series covers advanced JS concepts that are asked in every frontend intervi
 Every concept is practiced with real code and tested in terminal.
 
 ---
+
+## 🔗 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/mahak-webdev) | [GitHub](https://github.com/Mahak-012)
