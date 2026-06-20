@@ -15,8 +15,8 @@ Going back to the fundamentals. Properly this time.
 | Day 3 | Prototype Chain & Inheritance | [View Code](./Day%203) | ✅ Done |
 | Day 4 | Currying & Partial Application | [View Code](./Day%204) | ✅ Done |
 | Day 5 | Higher Order Functions (map, filter, reduce) | [View Code](./Day%205) | ✅ Done |
-| Day 6 | Closures & Lexical Scope | Coming soon | ⏳ |
-| Day 7 | Debouncing & Throttling | Coming soon | ⏳ |
+| Day 6 | ES6+ Deep Dive | Coming soon | ⏳ |
+| Day 7 | Closures & Lexical Scope  | Coming soon | ⏳ |
 | Day 8 | ES6+ Deep Dive | Coming soon | ⏳ |
 
 ---
